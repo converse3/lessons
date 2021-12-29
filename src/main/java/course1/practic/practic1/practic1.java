@@ -1,4 +1,4 @@
-package course1.practic;
+package course1.practic.practic1;
 import java.util.Scanner;
 
 public class practic1 {

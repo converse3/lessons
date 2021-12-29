@@ -1,4 +1,4 @@
-package course1.lesson2;
+package course1.lessons.lesson2;
 
 public class PrintUtil {
 

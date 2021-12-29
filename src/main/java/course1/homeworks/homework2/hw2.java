@@ -1,6 +1,6 @@
-package homeworks;
+package course1.homeworks.homework2;
 
-public class HomeworkApp {
+public class hw2 {
     public static void main(String[] args) {
         System.out.println("Task 1: ");
         System.out.println(checkSum(15, 4));

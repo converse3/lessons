@@ -105,7 +105,7 @@ public class CrossesZeroesApp {
      * @param symbol символ проверки
      * @return true, если победа
      */
-    public static boolean checkWin(char symbol) {
+    private static boolean checkWin(char symbol) {
         // проверка строк
         if (map[0][0] == symbol && map[0][1] == symbol && map[0][2] == symbol) {
             return true;

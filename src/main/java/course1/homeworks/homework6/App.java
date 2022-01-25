@@ -2,8 +2,8 @@ package course1.homeworks.homework6;
 
 public class App {
     public static void main(String[] args) {
-        Cat cat = new Cat(35, 5);
-        Dog dog = new Dog(506, 7);
+        Cat cat = new Cat(197, 3);
+        Dog dog = new Dog(529, 11);
 
         cat.run(cat.isRun);
         cat.swim(cat.isSwim);

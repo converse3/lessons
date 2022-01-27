@@ -23,7 +23,6 @@ public class RentApp {
                 System.out.println("This is a van " + v.getSeats());
             }
         }
-
         // System.out.println(van);
     }
 }

@@ -20,7 +20,6 @@ public class Plate {
     }
 
     public boolean decreaseFood(int n) {
-        Cat satiety;
         if (food < n) {
             System.out.println("Еды недостаточно. Кот не поел.");
             return false;
